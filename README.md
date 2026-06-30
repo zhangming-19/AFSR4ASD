@@ -1,2 +1,4 @@
 # Anomalous sound detection
-The source codes and checkpoints for anomalous sound detection will be released soon~
+We're putting the finishing touches on our anomalous sound detection code and models. Everything will be available in this repository very soon. Your patience is greatly appreciated – great things are coming!
+
+
